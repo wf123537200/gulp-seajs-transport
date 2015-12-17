@@ -20,7 +20,11 @@ gulp.task("cmd-trs-out", function() {
 });
 
 package.json增加
+
     "dependencies": {
+    
     // 用这一行代替原来的gulp-seajs-transport
+    
     "gulp-seajs-transport-zak": "",
+    
   },
